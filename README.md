@@ -1,4 +1,5 @@
-# projectname-mock-api
+# Deployed link
+https://json-server-1-qh4z.onrender.com/data
 
 #### Prerequisite
 * Create a folder
